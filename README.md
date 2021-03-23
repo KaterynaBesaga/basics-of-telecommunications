@@ -1,2 +1,1 @@
-# basics-of-telecommunications
-basics of telecommunications
+# Репозиторій студента групи ТР-32 Ільяша Андрія
