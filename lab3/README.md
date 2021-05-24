@@ -9,8 +9,8 @@
 ![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/1.png)
 
 a) Побудувати дерево за алгоритмом обходу в ширину (BFS); (для 2-х різних вершин)
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/2.png)
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/3.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc31.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc32.png)
 Топології дерев побудованих з різних кореневих вершин є різна.
 
 б) Побудувати дерево за алгоритмом обходу в глибину (DFS); (для 2-х різних вершин)
